@@ -1,5 +1,7 @@
 # 🌾 EthioAgri - AI-Powered Agricultural Platform
 
+https://github.com/user-attachments/assets/00a69701-155d-4863-8bc8-30f0ccdd89b9
+
 An integrated agricultural platform that connects farmers with customers and provides AI-powered crop disease analysis. Built with modern technologies including Spring Boot, Next.js, and FastAPI.
 
 ## 🏗️ Project Architecture
